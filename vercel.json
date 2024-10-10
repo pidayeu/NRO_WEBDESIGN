@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+      { "source": "/Home", "destination": "/Index.html" },
+      { "source": "/About us", "destination": "/About us.html" },
+      { "source": "/Informasi", "destination": "/Tipe.html" },
+      { "source": "/Tipe Rumah", "destination": "/Artikel.html" },
+      { "source": "/Pemesanan", "destination": "/Artikel.html" },
+      { "source": "/Rate Us", "destination": "/Artikel.html" }
+    ]
+  }
